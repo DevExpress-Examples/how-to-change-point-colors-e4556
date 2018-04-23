@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseCustomPalette", "UseCustomPalette\UseCustomPalette.csproj", "{815D85FC-2F28-4106-84C9-AE953A045CBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseCustomPalette.Web", "UseCustomPalette.Web\UseCustomPalette.Web.csproj", "{8311FCD0-D852-47A7-B132-F7D3D4A8195C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{815D85FC-2F28-4106-84C9-AE953A045CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815D85FC-2F28-4106-84C9-AE953A045CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815D85FC-2F28-4106-84C9-AE953A045CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815D85FC-2F28-4106-84C9-AE953A045CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8311FCD0-D852-47A7-B132-F7D3D4A8195C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8311FCD0-D852-47A7-B132-F7D3D4A8195C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8311FCD0-D852-47A7-B132-F7D3D4A8195C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8311FCD0-D852-47A7-B132-F7D3D4A8195C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
